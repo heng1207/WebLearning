@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="267bc70a-fa13-4efa-92cf-d1dc0df7f437" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.CSS概述/CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.CSS概述/CSS应用案例.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="web前端" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8.CSS概述/CSS应用案例.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.CSS概述/CSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/标题1.html" />
+        <option value="$PROJECT_DIR$/helloWord.html" />
+        <option value="$PROJECT_DIR$/标题对其.html" />
+        <option value="$PROJECT_DIR$/文字2.html" />
+        <option value="$PROJECT_DIR$/段落标签.html" />
+        <option value="$PROJECT_DIR$/文字1.html" />
+        <option value="$PROJECT_DIR$/文字.html" />
+        <option value="$PROJECT_DIR$/段落.html" />
+        <option value="$PROJECT_DIR$/水平线.html" />
+        <option value="$PROJECT_DIR$/标题标签.html" />
+        <option value="$PROJECT_DIR$/图像和超链接/设置图像属性.html" />
+        <option value="$PROJECT_DIR$/图像和超链接/提示文字和替换文本.html" />
+        <option value="$PROJECT_DIR$/图像和超链接/链接标签.html" />
+        <option value="$PROJECT_DIR$/图像和超链接/图像的超链接.html" />
+        <option value="$PROJECT_DIR$/表格与div标签/基本表格.html" />
+        <option value="$PROJECT_DIR$/8.CSS概述/CSS应用案例.html" />
+        <option value="$PROJECT_DIR$/8.CSS概述/CSS.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+    <option name="y" value="52" />
+    <option name="width" value="1168" />
+    <option name="height" value="623" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Web前端" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web前端" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/初识HTMI5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="267bc70a-fa13-4efa-92cf-d1dc0df7f437" name="Default Changelist" comment="" />
+      <created>1593135711033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593135711033</updated>
+      <workItem from="1593135713459" duration="392000" />
+      <workItem from="1593136168827" duration="1289000" />
+      <workItem from="1593137518206" duration="1761000" />
+      <workItem from="1593139790747" duration="1788000" />
+      <workItem from="1593141607993" duration="1419000" />
+      <workItem from="1593143490511" duration="124000" />
+      <workItem from="1593143812952" duration="4691000" />
+      <workItem from="1593183532987" duration="60000" />
+      <workItem from="1593227715869" duration="2074000" />
+      <workItem from="1593230080063" duration="423000" />
+      <workItem from="1593230673445" duration="42000" />
+      <workItem from="1593783828621" duration="18000" />
+      <workItem from="1593783905104" duration="98000" />
+      <workItem from="1593784065437" duration="7000" />
+      <workItem from="1593784103719" duration="60000" />
+      <workItem from="1593784180688" duration="27000" />
+      <workItem from="1593784227963" duration="7000" />
+      <workItem from="1593784301829" duration="51000" />
+      <workItem from="1593784372152" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14343000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="52" width="1168" height="623" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17523976" />
+      <window_info id="Structure" order="1" weight="0.24934612" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.21657251" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/文字2.html" />
+    <entry file="file://$PROJECT_DIR$/初识HTMI5/段落.html" />
+    <entry file="file://$PROJECT_DIR$/标题对其.html" />
+    <entry file="file://$PROJECT_DIR$/初识HTMI5/标题.html" />
+    <entry file="file://$PROJECT_DIR$/初识HTMI5/book.jpg" />
+    <entry file="file://$PROJECT_DIR$/图像和超链接/链接标签.html" />
+    <entry file="file://$PROJECT_DIR$/图像和超链接/提示文字和替换文本.html" />
+    <entry file="file://$PROJECT_DIR$/图像和超链接/设置图像属性.html" />
+    <entry file="file://$PROJECT_DIR$/初识HTMI5/水平线.html" />
+    <entry file="file://$PROJECT_DIR$/初识HTMI5/文字.html" />
+    <entry file="file://$PROJECT_DIR$/初识HTMI5/helloWord.html" />
+    <entry file="file://$PROJECT_DIR$/图像和超链接/图像的超链接.html" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/表格与div标签/基本表格.html" />
+    <entry file="file://$PROJECT_DIR$/8.CSS概述/CSS应用案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.CSS概述/CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
