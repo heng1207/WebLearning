@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="267bc70a-fa13-4efa-92cf-d1dc0df7f437" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10.CSS3常用属性/1.文本自动换行.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.CSS3常用属性/文本自动换行.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/10.CSS3常用属性/背景常规属性.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/10.CSS3常用属性/背景常规属性.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/10.CSS3常用属性/设置超链接样式.css" afterDir="false" />
@@ -12,10 +12,10 @@
       <change beforePath="$PROJECT_DIR$/2.初识HTMI5/book.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2.初识HTMI5/文字.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.初识HTMI5/文字.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.初识HTMI5/标题.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.初识HTMI5/标题.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.图像和超链接/book1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.图像和超链接/book2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.图像和超链接/book3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.图像和超链接/book4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.图像和超链接/book1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image/book1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.图像和超链接/book2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image/book2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.图像和超链接/book3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image/book3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.图像和超链接/book4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Image/book4.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.图像和超链接/图像的超链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.图像和超链接/图像的超链接.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.图像和超链接/提示文字和替换文本.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.图像和超链接/提示文字和替换文本.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.图像和超链接/设置图像属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.图像和超链接/设置图像属性.html" afterDir="false" />
@@ -75,11 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/源码/12/01/css/basic.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-216221">
               <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.CSS3常用属性/文本自动换行.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -162,6 +171,11 @@
             <path>
               <item name="Web前端" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web前端" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web前端" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web前端" type="462c0819:PsiDirectoryNode" />
+              <item name="10.CSS3常用属性" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,12 +273,12 @@
       <workItem from="1594971322239" duration="18000" />
       <workItem from="1594976261062" duration="384000" />
       <workItem from="1594977268181" duration="174000" />
-      <workItem from="1599901733095" duration="9925000" />
+      <workItem from="1599901733095" duration="10174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28710000" />
+    <option name="totallyTimeSpent" value="28959000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,6 +291,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="42" width="1168" height="623" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26503924" />
       <window_info id="Structure" order="1" weight="0.24934612" />
@@ -309,7 +324,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/表格与div标签/基本表格.html" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/legacy.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22">
@@ -569,6 +583,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-216221">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.CSS3常用属性/文本自动换行.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
