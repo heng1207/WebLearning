@@ -1,8 +1,8 @@
-.mx-box{
+.mr-box{
     width: 412px;
     height: 480px;
     margin: 0 auto;
-    /*background: no-repeat url();*/
+    background: no-repeat url(../Image/book1.jpg) #E0D4D4 47% 43%;
     background-size: 220px 254px;
 }
 
@@ -13,7 +13,7 @@
     text-shadow: -1px 0 0 #0a0a0a;
 }
 
-.mr-shadow font{
+.mr-shadow span{
     font-size: 30px;
 }
 
@@ -25,6 +25,6 @@
     text-shadow: 0 -1px 0 #ca3636;
 }
 
-.mr-shadow1 font{
+.mr-shadow1 span{
     font-size: 35px;
 }

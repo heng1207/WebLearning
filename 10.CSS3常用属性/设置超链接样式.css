@@ -1,0 +1,31 @@
+li a:link{
+    color: #E00A0D;
+}
+
+li a:visited{
+    color: #551A99;
+}
+
+li a:hover{
+    color: #fff;
+}
+
+li a:active{
+    color: #10D0B5;
+}
+
+li a:link{
+    text-decoration: none;
+}
+
+li a:visited{
+    text-decoration: none;
+}
+
+li a:active{
+    text-decoration: none;
+}
+
+li a:link{
+    background-color: #B2FF99;
+}
